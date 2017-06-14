@@ -1,0 +1,13 @@
+/target/
+/Git/
+/.metadata/
+/$tf/
+/BuildProcessTemplates/
+/ProyectoMFG/resources/
+/ProyectoMFG/backup/
+/ProyectoMFG/x64/
+/x64/
+ProyectoMFG.sdf
+ProyectoMFG.opensdf
+ProyectoMFG.sln
+ProyectoMFG.v12.suo
